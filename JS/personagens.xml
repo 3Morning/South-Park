@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personagens>
+    <personagem>
+        <img>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1a4cCaMPukriQISeuaaGcLMN9KoGYx5FLQQ&amp;s</img>
+        <nome>Kenny McCormick</nome>
+        <apelido>Mysterion</apelido>
+        <idade>10 anos</idade>
+        <personalidade>Silencioso, muitas vezes incompreensível devido à sua capa laranja que cobre sua boca, mas geralmente gentil e amigável</personalidade>
+    </personagem>
+    <personagem>
+        <img>https://southparkshop.ca/cdn/shop/files/kyleOverlay_256x256_crop_center_d6f44373-a1bf-4678-b36d-1f1ddab805af_1980x.png?v=1630526317</img>
+        <nome>Kyle Broflovski</nome>
+        <apelido>The Lonely Jew on Christmas</apelido>
+        <idade>10 anos</idade>
+        <personalidade>Inteligente, moralista, frequentemente irritado, mas com um grande coração</personalidade>
+    </personagem>
+    <personagem>
+        <img>https://i0.wp.com/www.adiumxtras.com/images/pictures/eric_cartman_1_15136_5652_image_8141.png</img>
+        <nome>Eric Cartman</nome>
+        <apelido>The Coon</apelido>
+        <idade>10 anos</idade>
+        <personalidade>Manipulador, egocêntrico, preconceituoso e muitas vezes cruel, mas também hilário em sua malícia</personalidade>
+    </personagem>
+    <personagem>
+        <img>https://southparkshop.ca/cdn/shop/files/stanOverlay_256x256_crop_center_39b1a5ec-6125-413f-acc0-f73936e9e096_1980x.png?v=1630526586</img>
+        <nome>Stan Marsh</nome>
+        <apelido>Toolshed</apelido>
+        <idade>10 anos</idade>
+        <personalidade>Normalmente o mais sensato do grupo, embora possa ser influenciado pelos caprichos de seus amigos, especialmente de Cartman</personalidade>
+    </personagem>
+</personagens>

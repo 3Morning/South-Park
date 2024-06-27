@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('https://4kwallpapers.com/images/wallpapers/south-park-animated-2880x1800-9379.jpg');
+  color: #333;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Rye", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  color: #000000;
+}
+#personagens-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.personagem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    flex: 0 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.personagem img {
+    float: left;
+    margin-right: 10px;
+    height: auto;
+}
+
+.personagem:hover {
+    transform: translateY(-40px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.personagem p {
+    margin: 0;
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.personagem button{
+    color: rgb(58, 33, 0);
+    display: block;
+    background-color: #b45700;
+    height: 35px;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+    width: 100px;
+    margin: 10;
+    justify-content: center;
+    border-radius: 35px;
+}
